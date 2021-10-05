@@ -1,5 +1,5 @@
 {
-  "name": "@becoswap-libs/sdk",
+  "name": "@domgeswapswap-libs/sdk",
   "license": "MIT",
   "version": "1.0.2",
   "description": "🛠 An SDK for building applications on top of becoswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/becoswap/becoswap-sdk.git",
+  "repository": "https://github.com/js2docker/domgeswap-sdk.git",
   "keywords": [
     "becoswap",
     "ethereum"
